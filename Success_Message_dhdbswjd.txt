@@ -1,10 +1,9 @@
 
 
 
-
-
          #message
          #안녕하세요, SAMSUNG입니다 ^~^
+         #Github
 
          #연습용입니다.
          #잘할 수 있을지 모르겠네요.
@@ -16,6 +15,4 @@
 
          #Contact
          #E-mail   :   kbmoyj12@naver.com
-
-         #추가된 메세지 입니다.
-         #추가된 메세지 입니다.
+         
